@@ -1,0 +1,8 @@
+# Observed imports; versions are not a tested lockfile.
+torch
+captum
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
